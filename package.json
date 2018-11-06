@@ -1,0 +1,24 @@
+{
+  "name": "js-environment",
+  "version": "1.0.0",
+  "description": "Javascript Develpoement Environment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossaiin/js-environment.git"
+  },
+  "author": "Masum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hossaiin/js-environment/issues"
+  },
+  "homepage": "https://github.com/hossaiin/js-environment#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "open": "0.0.5"
+  }
+}
